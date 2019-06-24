@@ -1,0 +1,42 @@
+
+
+
+.header-logo {
+  float: left;
+  margin-left: 60px;
+  margin-bottom: 10px;
+}
+.header-list ul {
+  float: right;
+  margin: 20px 100px 0 0;
+}
+.header-list li {
+  list-style: none;
+  float: left;
+  color: #0066CC;
+  margin-right: 45px;
+}
+.header-list li:hover {
+  border-top: 5px solid #002f7b;
+}
+.fas {
+  font-size: 14px;
+}
+.header-list li:first-child {
+  color: #666666;
+}
+.clear {
+  clear:left;
+}
+.top-container {
+  background-image: url(static.jpg);
+  height: 550px;
+}
+.sentence {
+  color: white;
+  text-align: center;
+}
+.btn {
+  background-color:grey;
+  display: inline-block;
+}
