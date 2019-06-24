@@ -40,3 +40,18 @@
   background-color:grey;
   display: inline-block;
 }
+.middle-container {
+  background-color: #EEEEEE;
+}
+.content {
+  background-color: white;
+  width: 200px;
+  float: left;
+  margin-right: 100px;
+  display: inline-block;
+}
+.contents {
+  background-color: red;
+  text-align: center;
+
+}
